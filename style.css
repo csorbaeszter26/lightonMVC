@@ -1,0 +1,17 @@
+.lekapcsolt{
+    background-color: yellow;
+}
+
+.felkapcsolt {
+    background-color: green;
+}
+
+.lampa {
+    height: 200px;
+    width: 200px;
+}
+
+.tartalom {
+    width: 600px;
+    margin: auto;
+}
